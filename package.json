@@ -1,32 +1,31 @@
 {
-  "name": "val-memoirs-api",
-  "version": "0.1.0",
-  "private": true,
-  "dependencies": {
-    "json-server": "^0.15.0",
-    "react": "^16.8.6",
-    "react-dom": "^16.8.6",
-    "react-scripts": "3.0.1"
-  },
+  "name": "heroku-json-server-ready",
+  "version": "1.0.0",
+  "description": "Heroku Ready-REST API",
+  "description": "A sample Node.js app using Express 4",
+  "main": "index.js",
   "scripts": {
-    "start": "json-server -p 8080 db.json",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "start": "node index.js"
   },
-  "eslintConfig": {
-    "extends": "react-app"
+  "dependencies": {
+    "json-server": "^0.8.21",
+    "glob": "^7.0.5"
   },
-  "browserslist": {
-    "production": [
-      ">0.2%",
-      "not dead",
-      "not op_mini all"
-    ],
-    "development": [
-      "last 1 chrome version",
-      "last 1 firefox version",
-      "last 1 safari version"
-    ]
-  }
+  "engines": {
+    "node": "0.10.x",
+    "ejs": "1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jagadeeshthegeek/heroku-json-server-ready"
+  },
+  "keywords": [
+    "node",
+    "json-server"
+  ],
+  "author": "Mark Pundsack",
+  "contributors": [
+    "Jagadeesh"
+  ],
+  "license": "MIT"
 }
