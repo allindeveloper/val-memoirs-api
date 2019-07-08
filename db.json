@@ -1,0 +1,31 @@
+{
+    "stories": [
+      {
+        "id": 1,
+        "firstname": "Precious",
+        "lastname": "Samuel",
+        "username": "meinmy",
+        "gender":"male",
+        "headline":"love song",
+        "story":"once upon a time"
+      },
+      {
+        "id": 2,
+        "firstname": "Steve",
+        "lastname": "Palmer",
+        "username": "steve.coding",
+        "gender":"male",
+        "headline":"love song",
+        "story":"once upon a time"
+      },
+      {
+        "id": 3,
+        "firstname": "Ann",
+        "lastname": "Smith",
+        "username": "ann@coding",
+        "gender":"female",
+        "headline":"love song",
+        "story":"love story"
+      }
+    ]
+  }
