@@ -7,8 +7,8 @@
       "username": "precious.uchendu",
       "gender":"Male",
       "headline":"I love React",
-      "story":"Once Upon a time i could not code, now i love it",
-      "likes":3
+      "story":"Once Upon a time i could not code, now i can and i love it",
+      "likes":2
     },
     {
       "id": 2,
@@ -18,7 +18,7 @@
       "gender":"Male",
       "headline":"Love Song",
       "story":"Very soon i'll be a very good musician",
-      "likes":3
+      "likes":5
     },
     {
       "id": 3,
@@ -27,8 +27,18 @@
       "username": "joy.aja",
       "gender":"Female",
       "headline":"This is going great",
-      "story":"So i rememer when i was started reading for this mathematics exam, it was very very difficult, as i did not understand much. Thank God i did ny best during the exam and i finished with a good score...",
-      "likes":3
+      "story":"So i remember when i was started reading for this mathematics exam, it was very very difficult, as i did not understand much. Thank God i did ny best during the exam and i finished with a good score...",
+      "likes":9
+    },
+    {
+      "id": 4,
+      "firstname": "Queen",
+      "lastname": "Esther",
+      "username": "queen.esther",
+      "gender":"Female",
+      "headline":"Meeting new people is Fun",
+      "story":"So i just met this guy, he's so great and smart. I really wish we could see more often",
+      "likes":9
     }
   ]
 }
