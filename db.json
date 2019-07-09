@@ -3,29 +3,32 @@
     {
       "id": 1,
       "firstname": "Precious",
-      "lastname": "Samuel",
-      "username": "meinmy",
-      "gender":"male",
-      "headline":"love song",
-      "story":"once upon a time"
+      "lastname": "Uchendu",
+      "username": "precious.uchendu",
+      "gender":"Male",
+      "headline":"I love React",
+      "story":"Once Upon a time i could not code, now i love it",
+      "likes":3
     },
     {
       "id": 2,
       "firstname": "Steve",
-      "lastname": "Palmer",
-      "username": "steve.coding",
-      "gender":"male",
-      "headline":"love song",
-      "story":"once upon a time"
+      "lastname": "James",
+      "username": "steve.james",
+      "gender":"Male",
+      "headline":"Love Song",
+      "story":"Very soon i'll be a very good musician",
+      "likes":3
     },
     {
       "id": 3,
-      "firstname": "Ann",
-      "lastname": "Smith",
-      "username": "ann@coding",
-      "gender":"female",
-      "headline":"love song",
-      "story":"love story"
+      "firstname": "Joy",
+      "lastname": "Aja",
+      "username": "joy.aja",
+      "gender":"Female",
+      "headline":"This is going great",
+      "story":"So i rememer when i was started reading for this mathematics exam, it was very very difficult, as i did not understand much. Thank God i did ny best during the exam and i finished with a good score...",
+      "likes":3
     }
   ]
 }
