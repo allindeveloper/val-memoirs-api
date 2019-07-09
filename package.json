@@ -1,5 +1,5 @@
 {
-  "name": "heroku-json-server-ready",
+  "name": "val-memoirs-web-api-service",
   "version": "1.0.0",
   "description": "Heroku Ready-REST API",
   "description": "A sample Node.js app using Express 4",
